@@ -4,9 +4,9 @@ Landing page estática em português, com identidade bege e marrom. Arquivos pub
 
 ## Conteúdo
 
-Apresentação, biografia, interesses fotográficos, Instagram e contato. Não há diagnóstico publicado, imagens de terceiros, galeria fictícia, formulário ou banco de dados. As frases editoriais são sugestões de texto para revisão pelo Guilherme.
+Apresentação, galeria com dez fotografias fornecidas pelo usuário, biografia, interesses fotográficos, Instagram e contato. Não há diagnóstico publicado, galeria fictícia, formulário ou banco de dados. Os títulos das imagens e as frases editoriais são sugestões de texto para revisão pelo Guilherme.
 
-O portfólio e suas categorias serão definidos quando as fotografias forem fornecidas. Os cinco temas atuais representam interesses informados, não categorias definitivas nem serviços contratáveis garantidos.
+As fotografias originais estão em `dist/images/`, sem alterações de cor ou conteúdo. Alguns arquivos fornecidos incluem elementos da interface do Instagram. As miniaturas usam enquadramentos responsivos; ao ampliar uma foto, o visualizador mostra o arquivo inteiro. Controles Anterior/Próxima, setas do teclado e Escape permitem navegar e fechar. Sem JavaScript, os links abrem as imagens diretamente. Os rótulos da galeria são descritivos, não categorias definitivas. Os cinco temas representam interesses informados, não serviços contratáveis garantidos.
 
 ## Visualização local
 
